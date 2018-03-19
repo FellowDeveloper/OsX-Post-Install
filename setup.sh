@@ -46,6 +46,7 @@ declare -a apps=(
   "evernote"
   "android-studio"
   "scroll-reverser"
+  "vlc"
   "java8"
 )
 
