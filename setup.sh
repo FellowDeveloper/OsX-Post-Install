@@ -5,27 +5,30 @@ set -euo pipefail
 # Cask CASKS_TO_INSTALL:
 
 declare -ar CASKS_TO_INSTALL=(
-  "calibre"
-  "dropbox"
-  "firefox-developer-edition"
+  "alfred"
   "iterm2"
-  "java"
-  "pycharm-ce"
+  "keepassx"
   "skype"
-  "sourcetree"
-  "sublime-text"
+  "telegram"
+  "whatsapp"
+  "slack"
+  "google-chrome"
+  "firefox"
+  "opera"
   "visual-studio-code"
+  "dropbox"
+  "sourcetree"
+  "evernote"
+  "android-studio"
+  "scroll-reverser"
   "vlc"
-  "yandex-disk"
+  "java8"
 )
 ###############################################################################
 #Brew PACKAGES_TO_INSTALL
 
 declare -ar PACKAGES_TO_INSTALL=(
-  "midnight-commander"
-  "python3"
-  "shellcheck"
-  "tor"
+  "jenkins"
 )
 ###############################################################################
 #Gems
