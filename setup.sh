@@ -29,6 +29,7 @@ declare -ar CASKS_TO_INSTALL=(
 
 declare -ar PACKAGES_TO_INSTALL=(
   "jenkins"
+  "cmake"
 )
 ###############################################################################
 #Gems
